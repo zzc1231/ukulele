@@ -1,6 +1,9 @@
 #平凡之路
 ***
 ## 根路径
+~~~
+https://raw.githubusercontent.com/zzc1231/ukulele/master/Res/pfzl
+~~~
 ##内容
 |名称|预览|路径|备注|
 |----|----|----|----|
