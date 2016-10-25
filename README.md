@@ -14,7 +14,7 @@
 
 ### 和弦路径
 * **取用路径：**
- https://raw.githubusercontent.com/zzc1231/ukulele/master/chord/+  和弦名.png
+ https://raw.githubusercontent.com/zzc1231/ukulele/master/chord/ +  和弦名.png
  
 * 绝对路径：
  https://github.com/zzc1231/ukulele/blob/master/chord/  
