@@ -2,11 +2,19 @@
 ***
 
 ##命名规范：
+
+* **资源存放路径：**
+  https://github.com/zzc1231/ukulele/blob/master/Res/ +歌曲名
+  
+ 例如： https://github.com/zzc1231/ukulele/blob/master/Res/小幸运
+  
 * tab谱（tab）：
     tab1.png  
     tab2.png
+    
 * 节奏型（rhythm）：
     r1.png
+    
 * 曲谱（lyric）： 
     l1.png 
 
