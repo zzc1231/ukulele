@@ -1,5 +1,11 @@
-#资源仓库
+﻿#资源仓库
 ***
+
+命名规范：
+* tab谱（tab）：tab1.png  tab2.png
+* 节奏型（rhythm）： r1.png
+* 曲谱（lyric）： l1.png 
+
 1. ![ pfzl 平凡之路](https://github.com/zzc1231/ukulele/blob/master/Res/pfzl/README.md#平凡之路)
 
   
